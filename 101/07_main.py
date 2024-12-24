@@ -6,11 +6,13 @@ result = 0
 
 if operation == "+":
     result = number1 + number2
-elif operation== "-":
+elif operation == "-":
     result = number1 - number2
-elif operation== "*":
-    result = number1 * number2  
-elif operation== "/":
-    result = number1 / number2            
+elif operation == "*":
+    result = number1 * number2
+elif operation == "/":
+    result = number1 / number2
+else:
+    print("Operation not found !")
 
-print("Result = {}".format(result))    
+print("Result = {}".format(result))

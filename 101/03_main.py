@@ -1,14 +1,14 @@
 # String
 name = "Kubilay"
 surname = "Çiçek"
-fullName = name + " "+ surname
+fullName = name + " " + surname
 print(fullName)
 print("Kubilay " * 5)
 
-#String Concatenation
+# String Concatenation
 name = "Kubilay"
 surname = "Çiçek"
-fullName = name + " "+ surname
+fullName = name + " " + surname
 
 print(fullName)
 
@@ -24,5 +24,5 @@ print(name[4])
 print(name[5])
 print(name[6])
 
-#Get String by index
+# Get String by index
 print(fullName[0:7])
