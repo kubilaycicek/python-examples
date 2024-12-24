@@ -9,4 +9,5 @@ I generated this repo for my python learning and shared some basicly exercises. 
 * 04_main.py # input from keyboard
 * 05_main.py # example for input
 * 06_main.py # conditions if else example
-* 07_main.py # condition if elif example
+* 07_main.py # condition if elif else example
+* 08_main.py # Loops (while, for)
