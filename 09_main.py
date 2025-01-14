@@ -9,8 +9,9 @@ def sayHello(name = "kubilay"):
     
 
 def addition(number1,number2):
-    return number1 + number2;
-def divide(number1,number2):
+    return number1 + number2
+
+def division(number1,number2):
     return number1 / number2
 
 hello("kubilay")
@@ -21,7 +22,7 @@ sayHello("Sevilay")
 result1 = addition(3,4)
 print(result1)
 
-result2 = divide(8,4)
+result2 = division(8,4)
 print(result2)
 
 
