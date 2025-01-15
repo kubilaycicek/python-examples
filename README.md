@@ -12,3 +12,6 @@ I generated this repo for my python learning and shared some basicly exercises. 
 * 07_main.py # condition if elif else example
 * 08_main.py # Loops (while, for)
 * 09_main.py # Functions
+* 10_main.py # 
+* 11_main.py # File IO
+* 12_main.py # Python Class 
